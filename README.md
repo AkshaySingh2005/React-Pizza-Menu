@@ -1,9 +1,8 @@
 # Getting Started with Create React App
 
-# Check-out the project here : https://akshaysingh2005.github.io/React-Pizza-Menu/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Check-out the project here : https://akshaysingh2005.github.io/React-Pizza-Menu/
 ## Available Scripts
 
 In the project directory, you can run:
